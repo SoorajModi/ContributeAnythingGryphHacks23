@@ -6,8 +6,8 @@ During the workshop, students will fork a public repository, add their contribut
 
 ## Creators
 
-- Sooraj Modi
-- Marshall Asch
+- [Sooraj Modi](https://github.com/SoorajModi)
+- [Marshall Asch](https://github.com/MarshallAsch)
 
 ## Prerequisites
 
