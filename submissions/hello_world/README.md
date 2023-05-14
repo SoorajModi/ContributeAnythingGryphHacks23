@@ -1,7 +1,7 @@
 # Hello World
 
 This is an example hello world program.
-It is s simple executable python3 script that will print `Hello, World!` when run.
+It is a simple executable python3 script that will print `Hello, World!` when run.
 
 ## Usage
 
