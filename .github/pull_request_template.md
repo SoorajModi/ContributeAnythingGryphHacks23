@@ -17,6 +17,4 @@
 
 <!-- To check an item, fill the brackets with the letter `x`; the result should look like `[x]`.-->
 
-- [ ] This contribution abides by all rules
-- [ ] Set yourself as the `Assignee`
-- [ ] Set @SoorajModi and @MarshallAsch as the `Reviewers`
+- [ ] This contribution abides by all rules listed in `docs/Rules.md`

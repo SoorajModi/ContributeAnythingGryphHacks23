@@ -270,7 +270,6 @@
 # pytype static type analyzer
 **/.pytype/
 
-
 # PyCharm
 #  JetBrains specific template is maintained in a separate JetBrains.gitignore that can
 #  be found at https://github.com/github/gitignore/blob/main/Global/JetBrains.gitignore
@@ -287,3 +286,6 @@
 
 # LSP config files
 **/pyrightconfig.json
+
+# MacOS
+**/.DS_Store
