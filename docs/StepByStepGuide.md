@@ -45,3 +45,13 @@ All conversations must be resolved before the PR can be merged. You or the comme
 ![PR Review change request](assets/pr_change_request.png)
 
 6. Once your PR has been approved and all conversatins have been resolved, no additional steps will be required from you, a codeowner will merge your PR into main.
+
+## Example submissions
+
+You can find an example of a submission by going to the [pull requests section of the repo](https://github.com/SoorajModi/ContributeAnythingGryphHacks23/pulls). Go to the closed PRs:
+
+![Repo pull requests](assets/repo_pull_requests.png)
+
+Then select on any PRs with the tag `example submission`, or click on [this link](https://github.com/SoorajModi/ContributeAnythingGryphHacks23/pull/1) directly
+
+![Example submission](assets/example_submission.png)
