@@ -12,7 +12,7 @@ The contribution that demonstrates the most unique and innovative approach to so
 
 ## Best Git Practices and Documentation
 
-The contribution that has the most organized and well-documented code, including clear commit messages, CI pipeline, and a detailed README file.
+The contribution that has the most organized and well-documented code, including clear commit messages, tests, linting, CI pipeline, and a detailed README file.
 
 ## Hidden Gem
 
