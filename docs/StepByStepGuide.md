@@ -12,7 +12,6 @@
 
 3. The next step is to `clone` the repository locally to add your changes.
 
-
 4. Once you have made the changes and run `git commit` and `git push` you can create the Pull Request.
 
 You can make the pull request by either clicking the pull request button from your fork, _or_ from the [pull request](https://github.com/SoorajModi/ContributeAnythingGryphHacks23/pulls) tab on the main repository and selecting the `compare across forks` option.
@@ -20,7 +19,6 @@ You can make the pull request by either clicking the pull request button from yo
 ![Opening a new PR from the forked repository](assets/fork_pull_requests.png)
 
 ![Selecting the correct fork and branch for a new PR](assets/open_pr_1.png)
-
 
 5. Once you select the branch that you are making a pull request from you will need to finish filling out its information.
 Some of it will be partially filled out from a template.
@@ -42,5 +40,18 @@ After the Pull request has been reviewed the indicator will change to one of the
 
 If changes are requested then there will be a comment that looks like this indicating, the file, and line that the change is being requested on, and a description of what the change thats requested is.
 
+All conversations must be resolved before the PR can be merged. You or the commenter can mark the conversation as resolved if the issue has been addressed.
+
 ![PR Review change request](assets/pr_change_request.png)
 
+6. Once your PR has been approved and all conversatins have been resolved, no additional steps will be required from you, a codeowner will merge your PR into main.
+
+## Example submissions
+
+You can find an example of a submission by going to the [pull requests section of the repo](https://github.com/SoorajModi/ContributeAnythingGryphHacks23/pulls). Go to the closed PRs:
+
+![Repo pull requests](assets/repo_pull_requests.png)
+
+Then select on any PRs with the tag `example submission`, or click on [this link](https://github.com/SoorajModi/ContributeAnythingGryphHacks23/pull/1) directly
+
+![Example submission](assets/example_submission.png)

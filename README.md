@@ -14,6 +14,7 @@ During the workshop, students will fork a public repository, add their contribut
 - GitHub account
     - If you are a student, you can sign up for the [GitHub Student Developer Pack](https://education.github.com/pack) to get free access to developer tools and resources.
 - Git installed on your computer
-- Basic programming skills
+    - See [Installing Git on Mac](docs/InstallGitOnMacOS.md) or [Installing Git on Windows](docs/InstallGitOnWindows.md)
 - Basic understanding of git recommended but not required
-- Read all rules for this workshop
+    - See [Git Basics](docs/GitBasics.md), or tutorials like [GitHowTo](https://githowto.com/) and [Learn Git Branching](https://learngitbranching.js.org/).
+- Read all rules for this workshop listed [here](docs/Rules.md)
