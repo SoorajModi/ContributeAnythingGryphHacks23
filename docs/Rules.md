@@ -1,9 +1,9 @@
 # Rules
 
-- You have until the end of the workshop to submit to the main project via a pull request
+- You have until the end of the workshop to submit to the main project via a pull request.
     - If your initial contribution requires changes, you have until the end of the hackathon to make those changes.
-    - No PRs will be merged once the Hackathon has been completed.
-    - Your contributions must be created and submitted during the workshop.
+    - No PRs will be merged once the Hackathon has completed, any outstanding PRs will be closed.
+    - Your contributions should be made primarily during the workshop time, but you can take extra time if you are having trouble or want to spend more time learning.
 - If you are submitting a new contribution, add a folder with the name of your project under the submissions folder. If you are contributing to someone else's contribution add your name to their README.
     - You can make only one new submission, but you may make as many contributions to other submissions as you want.
     - You cannot contribute something someone has already submitted. But you may contribute to someone else’s submission.
