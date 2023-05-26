@@ -1,5 +1,5 @@
 **Why**
-<!-- Explain why this change is necessary and why it was completed -->
+<!-- Explain why you are contributing this -->
 
 ---
 
