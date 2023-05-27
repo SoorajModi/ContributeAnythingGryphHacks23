@@ -1,10 +1,21 @@
+# Name: Basic React Application
+
+# Contributors: Krishna Cheemalapati, Chhavi Shah, Devon Forrest, Jodat Haroon
+
+# Why This Was Contributed
+
+It's essential for students to learn how to create react applications. React is 
+an extremely popular web framework, and at every hackathon it's always one of the 
+crowd favorites / one of the most popular javascript frameworks used to create
+hackathon projects (and websites in particular).
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Available Scripts and How to Run the Application
 
-In the project directory, you can run:
+In this project directory, you can run:
 
 ### `npm start`
 
