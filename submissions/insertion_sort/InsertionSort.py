@@ -10,3 +10,5 @@ def InsertionSort(arr):
 
 a = [1, 4, 5, 2]
 print(InsertionSort(a))
+
+
