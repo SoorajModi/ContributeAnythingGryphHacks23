@@ -4,7 +4,7 @@ A youtube downloader for any Gryph Hackers
 
 ## Usage
 
-Must instal pytube by typling "pip3 install pytube" into terminal to run
+Must install pytube by typing `pip3 install pytube` into the terminal to run
 
 To use this program you must have `python3` installed.
 
