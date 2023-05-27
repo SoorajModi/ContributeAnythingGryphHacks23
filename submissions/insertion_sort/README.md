@@ -1,6 +1,6 @@
 # Insertion Sort
 
-This is an example of an implemention of the 'insertion sort' sorting algorithm
+This is an example of an implementation of the 'insertion sort' sorting algorithm
 in Python. 
 Upon calling the function with the given array 'a', it will return 
 the elements of that array in ascending order. 
@@ -21,7 +21,7 @@ $ python InsertionSort.py
 
 ## Why I Added it
 
-This program shows an implementation of insertion sort, and it's a useful
+This program shows an implemention of insertion sort, and it's a useful
 algorithm to know.
 
 ## Contributors
