@@ -23,4 +23,4 @@ This program is being added as an sample contribution.
 
 ## Contributors
 
-This program was created by [Shreyas Jeevan Prakash].
+This program was created by [Shreyas Jeevan Prakash](https://github.com/ShreyasJ1P).
