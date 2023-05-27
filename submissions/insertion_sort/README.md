@@ -21,7 +21,7 @@ $ python InsertionSort.py
 
 ## Why I Added it
 
-This program shows an implemention of insertion sort, and it's a useful
+This program shows an implementation of insertion sort, and it's a useful
 algorithm to know.
 
 ## Contributors
