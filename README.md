@@ -18,3 +18,12 @@ During the workshop, students will fork a public repository, add their contribut
 - Basic understanding of git recommended but not required
     - See [Git Basics](docs/GitBasics.md), or tutorials like [GitHowTo](https://githowto.com/) and [Learn Git Branching](https://learngitbranching.js.org/).
 - Read all rules for this workshop listed [here](docs/Rules.md)
+
+# Category Winners
+
+- First submission: [Basic React App](submissions/basic_react_app/my-app/)
+- Most creative contribution: [Sieve of Eratosthenes](submissions/Sieve_of_Eratosthenes/)
+- Best git practices and documentation: [Basic re](submissions/basic_re/)
+- Best team project: [Basic React App](submissions/basic_react_app/my-app/)
+- Best individual contribution: [GryphHacks Video Downloader](submissions/GryphHacksVidDownloader/)
+- Best beginner contribution: [Array Sort](submissions/array_sort_c/)
