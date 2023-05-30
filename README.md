@@ -18,3 +18,12 @@ During the workshop, students will fork a public repository, add their contribut
 - Basic understanding of git recommended but not required
     - See [Git Basics](docs/GitBasics.md), or tutorials like [GitHowTo](https://githowto.com/) and [Learn Git Branching](https://learngitbranching.js.org/).
 - Read all rules for this workshop listed [here](docs/Rules.md)
+
+## Category Winners
+
+- First submission: [Basic React App](submissions/basic_react_app/my-app/) by [Krishna Cheemalapati](https://github.com/krishnacheemalapati), [Chhavi Shah](https://github.com/ConverseScholar), [Devon Forrest](https://github.com/DevinForr), [Jodat Haroon](https://github.com/joutad).
+- Most creative contribution: [Sieve of Eratosthenes](submissions/Sieve_of_Eratosthenes/) by [Pritesh Gandhi](https://github.com/Devil-Code).
+- Best git practices and documentation: [Basic re](submissions/basic_re/) by [Jodat Haroon](https://github.com/joutad).
+- Best team project: [Basic React App](submissions/basic_react_app/my-app/) by [Krishna Cheemalapati](https://github.com/krishnacheemalapati), [Chhavi Shah](https://github.com/ConverseScholar), [Devon Forrest](https://github.com/DevinForr), [Jodat Haroon](https://github.com/joutad).
+- Best individual contribution: [GryphHacks Video Downloader](submissions/GryphHacksVidDownloader/) by [Aaron Chin](https://github.com/achin04)
+- Best beginner contribution: [Array Sort](submissions/array_sort_c/) by [Devon Forrest](https://github.com/DevinForr).
